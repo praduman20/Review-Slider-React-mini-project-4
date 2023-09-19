@@ -1,5 +1,5 @@
-# React mini project 3 - Grocery Bud
-React Grocery App: A grocery management application built with React. Easily add, edit, and delete grocery items from your shopping list. Concepts used - useEffect hook , useState hook , react-icons , Local Storage(to store and access data from the current origin's local storage space).
+# React mini project 4 - Review Slider
+React Slider App: A user-friendly React application that lets you navigate through reviews with ease. Simply press 'Next' for the next review or 'Previous' for the previous one, making content browsing a breeze.
 
 ## Demo Link - https://my-review-slider.netlify.app/
 
