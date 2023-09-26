@@ -1,5 +1,5 @@
 # React mini project 4 - Review Slider
-React Slider App: A user-friendly React application that lets you navigate through reviews with ease. Simply press 'Next' for the next review or 'Previous' for the previous one, making content browsing a breeze.
+Slider App: A user-friendly React application that lets you navigate through reviews with ease. Simply press 'Next' for the next review or 'Previous' for the previous one, making content browsing a breeze.
 
 ## Demo Link - https://my-review-slider.netlify.app/
 
